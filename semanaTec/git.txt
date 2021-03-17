@@ -3,3 +3,9 @@ git clone ruta_repositorio
 
 //Para saber cual es el estado del repositorio:
 git status
+
+//Para que git rastree un archivo 
+git add nombredelarchivo
+git commit -m "oli"
+//Para subir el archivo
+git push 
