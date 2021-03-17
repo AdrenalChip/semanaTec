@@ -1,0 +1,7 @@
+esto va a aparecer y asi fium
+
+git branch
+
+git checkout -b nombre
+git para cambiar de rama
+git checkout nombre rama
