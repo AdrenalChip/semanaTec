@@ -9,3 +9,7 @@ git add nombredelarchivo
 git commit -m "oli"
 //Para subir el archivo
 git push 
+
+git checkout -b nombre
+git para cambiar de rama
+git checkout nombre rama
